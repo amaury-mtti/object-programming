@@ -16,7 +16,7 @@ Below are the commands used for each part and my answers to the questions.
 - Verify Git is installed: `git --version`
 - Configure username: `git config --global user.name "amaury-mtti"`
 - Configure email: `git config --global user.email "amaury.martinotti@gmail.com"`
-
+q
 ## Part 2 — Create the repository
 - Create a folder: `mkdir my-first-repo`
 - Navigate into it: `cd my-first-repo`
