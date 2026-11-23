@@ -46,5 +46,5 @@ uv run python 06-structural-patterns/my_solution/decorator.py   # run a demo
 
 ## About the commit history
 
-I first did the exercises in separate repositories (now deleted), then gathered everything into this one on November 23, which is why most commits are close together. Exercises 01 and 02 are entirely mine (we did them in class if I remember well). For exercises 03 to 06, I tried to solve them myself, but for committing them to Github and have a good repo structure, I asked formatting help to AI assistant (Gemini) : I compared them with my own earlier attempts.
+I first did the exercises in separate repositories (now deleted), then gathered everything into this one on November 23, which is why most commits are close together. Exercises 01 and 02 are entirely mine (we did them in class if I remember well). For exercises 03 to 06, I tried to solve them myself, but for committing them to Github and have a good repo structure, I asked formatting help to AI assistant (Gemini). Then, compared them with my own earlier attempts.
 
