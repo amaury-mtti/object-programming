@@ -131,6 +131,3 @@ ended with `==> Setup complete!` with no errors.
   only "Error:" lines would be real problems).
 
 ---
-
-*Note to self: confirm pip/jupyter lines actually returned versions on my
-machine, and double-check the GitHub repo is set to Public for delivery.*
