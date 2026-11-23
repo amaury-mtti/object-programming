@@ -9,8 +9,7 @@ __pycache__/
 *.pyc
 .pytest_cache/
 
-# Teacher solutions: they are locked (🔐) on the course site, so they stay on
-# my computer and are not published. Only their README is pushed.
+# Teacher solutions: only the READMe with the source link is published.
 # To publish them anyway, delete the two lines below.
 */teacher_solution/*
 !*/teacher_solution/README.md
