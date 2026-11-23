@@ -1,4 +1,4 @@
-^PP# Object-Oriented Programming & Design Patterns in Python
+# Object-Oriented Programming & Design Patterns in Python
 
 Myexercises for the **Object-Oriented Programming & Design Patterns in Python**
 course taught by **Benjamin Dallard**.
