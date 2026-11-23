@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Virtual environment (rebuilt with: python3 -m venv .venv)
+.venv/
+
+# Python / pytest caches (generated files, never versioned)
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Teacher solutions: they are locked (🔐) on the course site, so they stay on
+# my computer and are not published. Only their README is pushed.
+# To publish them anyway, delete the two lines below.
+*/teacher_solution/*
+!*/teacher_solution/README.md
